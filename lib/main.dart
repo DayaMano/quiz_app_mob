@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import "Pages/HomePage.dart";
-import "Utils/Constant.dart" as constant;
+import "package:quiz_app_mob/home/home_page.dart";
+import "package:quiz_app_mob/shared/constant.dart" as constant;
 
 void main() {
   runApp(const MyApp());
